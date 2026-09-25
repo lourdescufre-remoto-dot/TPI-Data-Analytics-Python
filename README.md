@@ -6,11 +6,9 @@ Finalmente, tras la integración con la información de marketing, se obtuvo un 
 
 [Gráficos interactivos](https://plotly-interactivo.netlify.app/) 
 
-Para visualizar los gráficos interactivos del análisis:
-
-Herramientas utilizadas
-Python
-Pandas
-Matplotlib
-Seaborn
-Google Colab
+Herramientas utilizadas para visualizar los gráficos interactivos del análisis:
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
+Google Colab.
