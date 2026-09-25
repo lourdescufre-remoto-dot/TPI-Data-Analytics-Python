@@ -4,7 +4,7 @@ El DataFrame de ventas comenzó con 3035 registros y 6 variables. Luego del proc
 
 Finalmente, tras la integración con la información de marketing, se obtuvo un DataFrame de 2312 registros y 13 variables, utilizado para el análisis y las visualizaciones.
 
-[Gráficos interactivos:](https://plotly-interactivo.netlify.app/) 
+[Gráficos interactivos](https://plotly-interactivo.netlify.app/) 
 
 Para visualizar los gráficos interactivos del análisis:
 
